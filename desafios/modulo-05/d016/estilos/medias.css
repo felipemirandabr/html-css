@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px){
+    .coluna {
+        width: 50%;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .coluna {
+        width: 25%;
+    }
+}
